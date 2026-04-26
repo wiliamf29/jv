@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.xvideos.com	TRUE	/	FALSE	1999999999	pending_thumb	deleted
+.xvideos.com	TRUE	/	FALSE	1999999999	session_token	c68f190eb93c1cfcIPHy2JL8skn1o0U2UvY50MD_zL8UZMinRVE1iZAXlu00C9MIerBddPc4g9eKJ9iuitZ3afmXQY0hyPX4C6C19n5nPIkgeLmoJ-e6xLbdfYyhXRMF5I9D-R1sYCvDgTDl00W9ieR7T1d9MGv-xvfDVwRSOvvQDM6WRnrfH8gMbe8fKhxLDZ6wzymqBN5Q3E8aVAUJDSTmL_I2ps1Z8E9IERUI4IHLgwDScXBda0RFvi4%3D
+
