@@ -1,0 +1,103 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sun, 26 Apr 2026 13:24:06 at https://www.youtube.com
+(httrack https://www.youtube.com -O youtube )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:24:09	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+13:24:41	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/)
+13:24:41	Warning: 	See Other for https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/
+13:24:41	Warning: 	File has moved from https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com
+13:24:42	Warning: 	See Other for https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/
+13:24:42	Warning: 	File has moved from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/ to https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com
+13:24:43	Warning: 	Moved Permanently for https://www.youtube.com/about/
+13:24:43	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
+13:24:43	Warning: 	Moved Permanently for https://www.youtube.com/about/press/
+13:24:43	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/
+13:24:43	Warning: 	Moved Permanently for https://www.youtube.com/about/copyright/
+13:24:43	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+13:25:22	Warning: 	Moved Permanently for https://www.youtube.com/about/policies/
+13:25:22	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+13:25:41	Warning: 	Moved Permanently for https://www.youtube.com/howyoutubeworks/policies/copyright/
+13:25:41	Warning: 	File has moved from https://www.youtube.com/howyoutubeworks/policies/copyright/ to https://www.youtube.com/howyoutubeworks/copyright/
+13:26:02	Warning: 	Moved Permanently for https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+13:26:02	Warning: 	File has moved from https://www.youtube.com/howyoutubeworks/policies/community-guidelines/ to https://www.youtube.com/howyoutubeworks/our-policies/
+13:26:53	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/yt/about/press/
+13:26:53	Warning: 	File has moved from https://www.youtube.com/intl/en/yt/about/press/ to https://www.youtube.com/intl/en/about/press/
+13:27:21	Warning: 	Moved Permanently for https://www.youtube.com/creators/benefits/
+13:27:21	Warning: 	File has moved from https://www.youtube.com/creators/benefits/ to https://www.youtube.com/creators/awards/
+13:27:22	Warning: 	Moved Permanently for https://www.youtube.com/yt/advertise/
+13:27:22	Warning: 	File has moved from https://www.youtube.com/yt/advertise/ to https://www.youtube.com/ads/
+13:31:32	Warning: 	Found for https://www.youtube.com/yt/copyright/
+13:31:32	Warning: 	File has moved from https://www.youtube.com/yt/copyright/ to https://www.youtube.com/yt/about/copyright/
+13:36:20	Warning: 	Found for https://www.youtube.com/premium/
+13:36:20	Warning: 	File has moved from https://www.youtube.com/premium/ to https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fpremium%3Fcbrd%3D1&gl=DE&m=0&pc=yt&cm=2&hl=en&src=1
+13:36:35	Warning: 	Moved Permanently for https://www.youtube.com/ads/youtube-select/
+13:36:35	Warning: 	File has moved from https://www.youtube.com/ads/youtube-select/ to https://www.youtube.com/ads/how-it-works/set-up-a-campaign/youtube-select/
+13:36:38	Warning: 	Found for https://www.youtube.com/yt/family/
+13:36:38	Warning: 	File has moved from https://www.youtube.com/yt/family/ to https://www.youtube.com/go/family/
+13:36:40	Warning: 	Moved Permanently for https://www.youtube.com/creatorresearch/
+13:36:40	Warning: 	File has moved from https://www.youtube.com/creatorresearch/ to https://www.youtube.com/creators/research/
+13:36:42	Warning: 	Moved Permanently for https://www.youtube.com/nextup/
+13:36:42	Warning: 	File has moved from https://www.youtube.com/nextup/ to https://www.youtube.com/creators/
+13:36:48	Warning: 	Moved Permanently for https://www.youtube.com/creators-for-change/
+13:36:48	Warning: 	File has moved from https://www.youtube.com/creators-for-change/ to https://www.youtube.com/creators/
+13:36:54	Warning: 	Found for https://www.youtube.com/csai-match/
+13:36:54	Warning: 	File has moved from https://www.youtube.com/csai-match/ to https://www.youtube.com/howyoutubeworks/
+13:37:03	Warning: 	Moved Permanently for https://www.youtube.com/about/brand-resources/
+13:37:03	Warning: 	File has moved from https://www.youtube.com/about/brand-resources/ to https://brand.youtube/
+13:37:13	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/about/press/
+13:37:13	Warning: 	File has moved from https://www.youtube.com/intl/en/about/press/ to https://about.youtube/
+13:37:14	Warning: 	Found for https://www.youtube.com/creators/awards/
+13:37:14	Warning: 	File has moved from https://www.youtube.com/creators/awards/ to https://www.youtube.com/creators/how-things-work/programs-initiatives/awards
+13:37:15	Warning: 	Moved Permanently for https://www.youtube.com/creators/why-be-a-creator/
+13:37:15	Warning: 	File has moved from https://www.youtube.com/creators/why-be-a-creator/ to https://www.youtube.com/creators/
+13:38:34	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/undefined
+13:44:56	Warning: 	Moved Permanently for https://www.youtube.com/yt/about/copyright/
+13:44:56	Warning: 	File has moved from https://www.youtube.com/yt/about/copyright/ to https://www.youtube.com/about/copyright/
+13:45:03	Error: 	"Not Found" (404) at link https://www.youtube.com/howyoutubeworks/nd (from https://www.youtube.com/intl/ALL_de/howyoutubeworks/youtubes-impact/)
+13:45:13	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_br/howyoutubeworks/progress-impact/impact/
+13:45:13	Warning: 	File has moved from https://www.youtube.com/intl/ALL_br/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_br/howyoutubeworks/youtubes-impact/
+13:45:50	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_fr/howyoutubeworks/progress-impact/impact/
+13:45:50	Warning: 	File has moved from https://www.youtube.com/intl/ALL_fr/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_fr/howyoutubeworks/youtubes-impact/
+13:45:51	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_in/howyoutubeworks/progress-impact/impact/
+13:45:51	Warning: 	File has moved from https://www.youtube.com/intl/ALL_in/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_in/howyoutubeworks/youtubes-impact/
+13:45:51	Warning: 	Moved Permanently for https://www.youtube.com/intl/hi_in/howyoutubeworks/progress-impact/impact/
+13:45:51	Warning: 	File has moved from https://www.youtube.com/intl/hi_in/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/hi_in/howyoutubeworks/youtubes-impact/
+13:47:11	Error: 	"Not Found" (404) at link https://www.youtube.com/trends/articles/skibidi-toilet-4-m/ (from https://www.youtube.com/trends/)
+13:47:11	Error: 	"Not Found" (404) at link https://www.youtube.com/trends/articles/2025-kings-league-mx/ (from https://www.youtube.com/trends/)
+13:47:18	Error: 	"Not Found" (404) at link https://www.youtube.com/trends/articles/tier-list-billion/ (from https://www.youtube.com/trends/)
+13:47:18	Warning: 	Found for https://www.youtube.com/trends/contact/
+13:47:18	Warning: 	File has moved from https://www.youtube.com/trends/contact/ to https://www.youtube.com/trends/
+13:47:33	Warning: 	Found for https://www.youtube.com/go/family/
+13:47:33	Warning: 	File has moved from https://www.youtube.com/go/family/ to https://www.youtube.com/howyoutubeworks/
+13:47:50	Error: 	"No Content" (204) at link https://www.youtube.com/undefined (from https://www.youtube.com/watch?v=93z9DqfE_ek)
+13:48:08	Warning: 	Moved Permanently for https://www.youtube.com/howyoutubeworks/product-features/live/
+13:48:08	Warning: 	File has moved from https://www.youtube.com/howyoutubeworks/product-features/live/ to https://www.youtube.com/howyoutubeworks/creator-economy/
+13:48:25	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/U_9NWg51JS8)
+13:51:04	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_be/howyoutubeworks/progress-impact/impact/
+13:51:04	Warning: 	File has moved from https://www.youtube.com/intl/en_be/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/en_be/howyoutubeworks/youtubes-impact/
+13:51:04	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_kr/howyoutubeworks/progress-impact/impact/
+13:51:04	Warning: 	File has moved from https://www.youtube.com/intl/ALL_kr/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_kr/howyoutubeworks/youtubes-impact/
+13:52:08	Error: 	Exit requested by shell or user
+13:52:09	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_us/creators/why-be-a-creator/
+13:52:09	Warning: 	File has moved from https://www.youtube.com/intl/en_us/creators/why-be-a-creator/ to https://www.youtube.com/intl/en_us/creators/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/howyoutubeworks/our-commitments/fostering-child-safety/advisory-committee/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/howyoutubeworks/our-commitments/fostering-child-safety/advisory-committee/ to https://www.youtube.com/howyoutubeworks/kids-and-teens/advisory-committee/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_ca/howyoutubeworks/progress-impact/impact/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/intl/ALL_ca/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_ca/howyoutubeworks/youtubes-impact/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/intl/fr_ca/howyoutubeworks/progress-impact/impact/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/intl/fr_ca/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/fr_ca/howyoutubeworks/youtubes-impact/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_de/howyoutubeworks/progress-impact/impact/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/intl/ALL_de/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_de/howyoutubeworks/youtubes-impact/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_jp/howyoutubeworks/progress-impact/impact/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/intl/ALL_jp/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_jp/howyoutubeworks/youtubes-impact/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_uk/howyoutubeworks/progress-impact/impact/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/intl/ALL_uk/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_uk/howyoutubeworks/youtubes-impact/
+13:52:10	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_id/howyoutubeworks/progress-impact/impact/
+13:52:10	Warning: 	File has moved from https://www.youtube.com/intl/ALL_id/howyoutubeworks/progress-impact/impact/ to https://www.youtube.com/intl/ALL_id/howyoutubeworks/youtubes-impact/
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 5 seconds : 503 links scanned, 454 files written (287513376 bytes overall) [224821890 bytes received at 133425 bytes/sec], 83050965 bytes transferred using HTTP compression in 345 files, ratio 22%
+(8 errors, 84 warnings, 0 messages)
