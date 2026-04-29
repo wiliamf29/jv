@@ -35,6 +35,7 @@ jobs:
         run: |
           ssh ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} '
           cd jv_dev/jv
+          git pull
           rm *.rar
           git add .
           git commit -m "a"
