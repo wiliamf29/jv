@@ -31,7 +31,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: get formats
         run: |
-          cat "$GITHUB_WORKSPACE/url.txt"
+          ssh ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} '
+          yt-dlp $(cat jv/url.txt) --list-formats --cookies jv/cookies.txt --remote-components ejs:github
+          '
 
 
 
