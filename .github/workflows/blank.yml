@@ -31,6 +31,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: get formats
         run: |
+          cat "$GITHUB_WORKSPACE/url.txt"
           URL=$(cat "$GITHUB_WORKSPACE/url.txt")
           export URL
           ssh ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} '
