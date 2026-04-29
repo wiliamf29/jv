@@ -43,7 +43,7 @@ jobs:
           git pull
           cd ..
           bash -l yt
-          rar a -v50 whim.rar *.mp4
+          rar a -v50m whim.rar *.mp4
           rm *.mp4
           mv *.rar jv_dev/jv/
           cd jv_dev/jv
