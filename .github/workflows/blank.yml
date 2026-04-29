@@ -32,6 +32,9 @@ jobs:
       - name: get formats
         run: |
           ssh ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} '
+          cd jv
+          git pull
+          cd ..
           yt-dlp $(cat jv/url.txt) --list-formats --cookies jv/cookies.txt --remote-components ejs:github
           '
 
