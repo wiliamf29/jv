@@ -1,1 +1,1 @@
-yt-dlp 'https://youtube.com/watch?v=zust6eID9mk' --list-formats --cookies jv/cookies.txt --remote-components ejs:github
+bash -l -c "yt-dlp $(cat jv/url.txt) -f $(yt-dlp $(cat jv/url.txt) --list-formats --cookies jv/cookies.txt --remote-components ejs:github | grep "1280" | grep -v "video only" | tail -n 1 | cut -d ' ' -f 1) --cookies jv/cookies.txt --remote-components ejs:github"
