@@ -34,7 +34,7 @@ jobs:
           URL=$(cat "$GITHUB_WORKSPACE/url.txt")
           export URL
           ssh ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} '
-          yt-dlp "$URL" --list-formats --cookies cookies.txt --remote-components ejs:github > formats.txt
+          yt-dlp "$URL" --list-formats --cookies jv/cookies.txt --remote-components ejs:github > formats.txt
           '
 
 
