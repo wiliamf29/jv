@@ -7,6 +7,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
+    paths:
+      - 'utl.txt'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,7 +34,12 @@ jobs:
       - name: get formats
         run: |
           ssh ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_HOST }} '
-          cd jv
+          cd jv_dev/jv
+          rm *.rar
+          git add .
+          git commit -m "a"
+          git push
+          cd ../../jv
           git pull
           cd ..
           bash -l yt
