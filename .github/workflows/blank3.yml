@@ -30,7 +30,7 @@ jobs:
       - name: Connect to Relay Server
         uses: edipizarro/runner-open-ssh@main
         with:
-          sshPublicKey: ${{ secrets.PBK }}   # Your personal public key (for you to connect)
-          gatewayPrivateKey: ${{ secrets.SSH_PRIVATE_KEY }} # Your server's private key
+          sshPublicKey: ${{ secrets.GATEWAY_PBK }}   # Your personal public key (for you to connect)
+          gatewayPrivateKey: ${{ secrets.GATEWAY_PVK }} # Your server's private key
           gatewayIP: ${{ secrets.GATEWAY_IP }}          # Your server's public IP
           maxLifeTime: 600      
