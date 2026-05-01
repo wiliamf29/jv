@@ -28,8 +28,8 @@ jobs:
         run: echo Hello, world!
       - name: Test connectivity to gateway server
         run: |
-
-          timeout 5 ssh -v ${{ secrets.GATEWAY_USER }}@${{ secrets.GATEWAY_IP }} exit
+          sleep 5
+          ssh -v ${{ secrets.GATEWAY_USER }}@${{ secrets.GATEWAY_IP }}
       - name: Connect to Relay Server
         uses: edipizarro/runner-open-ssh@main
         with:
