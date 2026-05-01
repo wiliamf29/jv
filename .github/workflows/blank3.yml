@@ -26,7 +26,10 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
+      - name: Test connectivity to gateway server
+        run: |
 
+          timeout 5 ssh -v ${{ secrets.GATEWAY_USER }}@${{ secrets.GATEWAY_IP }} exit
       - name: Connect to Relay Server
         uses: edipizarro/runner-open-ssh@main
         with:
