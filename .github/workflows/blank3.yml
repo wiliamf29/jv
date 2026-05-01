@@ -29,7 +29,7 @@ jobs:
       - name: Test connectivity to gateway server
         run: |
           sleep 5
-          ssh -v ${{ secrets.GATEWAY_USER }}@${{ secrets.GATEWAY_IP }}
+          ssh williamf29@185.36.231.235
       - name: Connect to Relay Server
         uses: edipizarro/runner-open-ssh@main
         with:
